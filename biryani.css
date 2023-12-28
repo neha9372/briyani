@@ -1,0 +1,29 @@
+ul{
+    list-style:square;
+}
+#vb{
+    color:blue;
+}
+#i{
+    color:blue;
+}
+b
+ol{
+    background-image: linear-gradient(blue,pink);
+}
+ul{
+    background-image: linear-gradient(blue,pink,yellow);
+}
+ 
+dt{
+    background-image: linear-gradient(blue,red);
+}
+h1{
+    background-image: linear-gradient(orange,red,white);
+}
+h2{
+    background-image: linear-gradient(orange,red,white);
+}
+h3{
+    background-image: linear-gradient(orange,red,white);
+}
